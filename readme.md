@@ -90,7 +90,7 @@ Por possuir microseviço, a solução pode ser integrada à outros sistemas, con
 <p>Utilizamos o GitHub para controle de versionamento, onde nossos colaboradores clonam o projeto, realizam os desenvolvimentos em branches individuais, e após a conclusão solicitam o merge request para o owner do projeto, que por fim realiza o merge para a branch principal (master) de cada repositório alterado.</p>
 <h2>✒️ Autores</h2>
 <p>Colaboradores para viabilização deste projeto:</p>
-<p>👩Rita Pavão – Desenvolvedor inicial<p/>
+<p>👩Rita Pavão – Arquitetura e Desenvolvedor inicial FrontEnd/BackEnd<p/>
 <p>👨Márcio Nogueira – Dev FrontEnd </p>
 <p>👨Lauro Leme – Dev BackEnd</p>
 <p>👨William Dias – Dev BackEnd</p>
